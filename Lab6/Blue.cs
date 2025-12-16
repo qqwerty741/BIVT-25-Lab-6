@@ -1,4 +1,4 @@
-﻿namespace Lab6
+/*﻿namespace Lab6
 {
     public class Blue
     {
@@ -91,4 +91,5 @@
             return res;
         }
     }
-}
+
+}*/
